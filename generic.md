@@ -1,13 +1,31 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Sobre mim
+description: Minha jornada, minhas competências e minha visão para o futuro da robótica.
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+### Minha Jornada: Da Forma à Função Inteligente
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+Com uma carreira iniciada há mais de quatro anos como **Desenhista Projetista Mecânico**, minha paixão sempre foi dar vida a ideias. Transformar conceitos abstratos em sistemas mecânicos funcionais e precisos me ensinou a linguagem dos materiais, da cinemática e da manufatura. Essa experiência sólida me deu uma base fundamental para entender como o mundo físico opera.
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+No entanto, ao projetar máquinas cada vez mais complexas, percebi que a verdadeira revolução não estava mais apenas na robustez de suas peças, mas na inteligência de suas ações. Foi essa percepção que me impulsionou a **evoluir**. Decidi não apenas construir o "corpo" dos sistemas, mas também desenvolver o "cérebro" que os comanda.
+
+Hoje, como estudante de **Ciência da Computação**, estou focado em construir essa ponte. Meu objetivo é me tornar um profissional capaz de liderar o desenvolvimento de um sistema robótico do início ao fim: desde o design mecânico inicial em CAD até o algoritmo de inteligência artificial que o torna autônomo. A busca por uma vaga no **ITA** reflete minha dedicação em alcançar o mais alto nível de excelência técnica nessa jornada.
+
+### Competências Técnicas
+
+#### Software & Desenvolvimento
+* **Linguagens de Programação:** Python, C++, C (Arduino)
+* **Bibliotecas e Frameworks:** OpenCV, Pandas, NumPy, (eventualmente ROS)
+* **Ferramentas:** Git, GitHub, VS Code, Ambientes de Simulação
+
+#### Automação & Controle
+* **Simulação:** FluidSIM (Eletropneumática), CADe SIMU
+* **Eletrônica Embarcada:** Prototipagem com Arduino/ESP32, Sensores, Atuadores (Servos, Motores DC)
+* **Conceitos:** Lógica de CLP, Comandos Elétricos, Teoria de Controle (PID)
+
+#### Design Mecânico & Engenharia
+* **Software CAD/CAE:** SolidWorks, AutoCAD, [Outro Software que você domina]
+* **Conhecimentos:** Desenho Técnico Mecânico, Manufatura, Pneumática e Hidráulica Industrial

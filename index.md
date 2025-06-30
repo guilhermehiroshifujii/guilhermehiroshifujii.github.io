@@ -1,11 +1,14 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Olá, me chamo Guilherme Hiroshi'
 description: null
 image: null
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+## Da Forma à Função Inteligente
+
+Com mais de 4 anos de experiência dando forma a sistemas mecânicos, hoje eu construo a inteligência que os comanda. Cursando Ciência da Computação para criar o futuro da robótica. 
+Minha carreira é dedicada a unir o melhor de dois mundos: a precisão do design mecânico com o poder do software. Acredito que os robôs mais eficientes nascem de uma base física robusta controlada por um cérebro digital elegante. Explore meus projetos abaixo e veja como transformo essa filosofia em realidade.
