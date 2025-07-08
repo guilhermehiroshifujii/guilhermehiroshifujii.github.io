@@ -27,5 +27,5 @@ Hoje, como estudante de **Ciência da Computação**, estou focado em construir 
 * **Conceitos:** Lógica de CLP, Comandos Elétricos, Teoria de Controle (PID)
 
 #### Design Mecânico & Engenharia
-* **Software CAD/CAE:** SolidWorks, AutoCAD, [Outro Software que você domina]
+* **Software CAD/CAE:** SolidWorks, AutoCAD, Inventor
 * **Conhecimentos:** Desenho Técnico Mecânico, Manufatura, Pneumática e Hidráulica Industrial

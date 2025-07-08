@@ -1,9 +1,57 @@
 ---
 layout: page
-title: Elements
+title: Habilidades
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
+
+### Software & Desenvolvimento
+
+<div class="row">
+    <div class="6u 12u$(small)">
+        <h4>Linguagens de Programação</h4>
+        <ul>
+            <li>Python</li>
+            <li>C++</li>
+            <li>C (para microcontroladores/Arduino)</li>
+            <li>SQL (Básico)</li>
+        </ul>
+    </div>
+    <div class="6u$ 12u$(small)">
+        <h4>Bibliotecas & Frameworks</h4>
+        <ul>
+            <li>OpenCV (Visão Computacional)</li>
+            <li>Pandas / NumPy (Análise de Dados)</li>
+            <li>ROS (Robot Operating System) - Em estudo</li>
+            <li>Git & GitHub (Versionamento)</li>
+        </ul>
+    </div>
+</div>
+
+<hr class="major" />
+
+### Automação & Engenharia
+
+<div class="row">
+    <div class="6u 12u$(small)">
+        <h4>Simulação & Design</h4>
+        <ul>
+            <li>FluidSIM (Eletropneumática)</li>
+            <li>CADe SIMU (Comandos Elétricos)</li>
+            <li>SolidWorks (Design e Modelagem 3D)</li>
+            <li>AutoCAD (Desenho Técnico 2D)</li>
+        </ul>
+    </div>
+    <div class="6u$ 12u$(small)">
+        <h4>Hardware & Eletrônica</h4>
+        <ul>
+            <li>Prototipagem com Arduino e ESP32</li>
+            <li>Leitura de Sensores (Ultrassom, IMU, etc.)</li>
+            <li>Controle de Atuadores (Servos, Motores)</li>
+            <li>Lógica de CLP e Diagramas Elétricos</li>
+        </ul>
+    </div>
+</div>
 
 <!-- Main -->
 <div id="main" class="alt">
@@ -12,12 +60,14 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Habilidades</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">Objetivo</h2>
+<p>Meu foco é construir uma base de competências que conecte o design mecânico com o desenvolvimento de software e o controle de sistemas. Abaixo estão as principais tecnologias que aplico em meus projetos.</p>
+
+<div class="relative group"><div style="transform: none;"><div class="border font-semibold focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 rounded-full w-full flex items-center justify-start transition-all duration-300 bg-gradient-to-r text-primary from-teal-500 to-cyan-400 bg-[size:0%_100%] bg-no-repeat px-5 py-2 gap-3 text-base"><div style="transform: none;"><img alt="Arduino icon" loading="lazy" width="20" height="20" decoding="async" data-nimg="1" class="object-contain" src="https://skillicons.dev/icons?i=arduino" style="color: transparent;"></div><span>Arduino</span></div></div><div class="absolute inset-0 bg-gradient-to-r blur-xl -z-10 from-teal-500 to-cyan-400" style="opacity: 0; transform: scale(0.95);"></div></div>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>
@@ -394,9 +444,9 @@ Finally, this is a <a href="#">link</a>.</p>
 <pre><code>i = 0;
 
 while (!deck.isInOrder()) {
-    print 'Iteration ' + i;
-    deck.shuffle();
-    i++;
+	print 'Iteration ' + i;
+	deck.shuffle();
+	i++;
 }
 
 print 'It took ' + i + ' iterations to sort the deck.';
