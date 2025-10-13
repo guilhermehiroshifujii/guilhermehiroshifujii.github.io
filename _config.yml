@@ -5,7 +5,7 @@ email: guilhermehiroshifujii@gmail.com
 description: Portfólio de projetos </br> Desenhista Projetista Mecânico evoluindo para a Robótica
 baseurl: "" # "/forty-jekyll-theme" - the subpath of your site, e.g. /blog
 url: https://guilhermehiroshifujii.github.io # the base hostname & protocol for your site
-author: Guilherme Hiroshi
+author: G. Hiroshi
 # street_address: 1234 Somewhere Road
 city: Mogi das cruzes
 state: SP
@@ -25,7 +25,7 @@ socials:
   GitHub: https://github.com/guilhermehiroshifujii
   GitLab:
   Google-Plus: 
-  Instagram:
+  Instagram: https://www.instagram.com/g.hiroshi_fujii
   LinkedIn: https://www.linkedin.com/in/guilherme-hiroshi-fujii
   Twitter:
   Facebook:
