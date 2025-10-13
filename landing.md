@@ -80,11 +80,11 @@ nav-menu: true
 		</header>
 		<p>Seu projeto exige mais do que um desenho estático? Eu uno a precisão do design mecânico com a automação da Ciência da Computação para entregar soluções dinâmicas.
 		Sou Desenhista Projetista com foco em Modelagem Paramétrica e Automação de Dados, capaz de criar:
-		<li>
-			<ul>Modelos 3D Dinâmicos e Automatizados: Geometrias que se ajustam automaticamente com variáveis, reduzindo o tempo de iteração do design.</ul>
-			<ul>Documentação Inteligente (GD&T): Desenhos rigorosos e detalhados para fabricação (zero erro na oficina).</ul>
-			<ul>Otimização de Processos: Usando a lógica de programação, consigo agilizar a geração de dados e Listas de Materiais (BOMs).</ul>
-		</li>
+		<ul>
+			<li>Modelos 3D Dinâmicos e Automatizados: Geometrias que se ajustam automaticamente com variáveis, reduzindo o tempo de iteração do design.</li>
+			<li>Documentação Inteligente (GD&T): Desenhos rigorosos e detalhados para fabricação (zero erro na oficina).</li>
+			<li>Otimização de Processos: Usando a lógica de programação, consigo agilizar a geração de dados e Listas de Materiais (BOMs).</li>
+		</ul>
 		Com base sólida em CAD, me aprofundo em Sistemas Pneumáticos e de Exaustão e na lógica de software para construir a próxima geração de designs eficientes.
 		Descreva seu desafio. Receba sua Proposta de Serviço Detalhada em 48 horas e garanta que sua documentação seja a mais inteligente do mercado. </p>
 		<ul class="actions">
