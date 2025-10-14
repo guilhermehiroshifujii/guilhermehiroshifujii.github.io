@@ -21,15 +21,15 @@ nav-menu: true
 
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Simulação e Design</h3>
+		<h3>Design</h3>
 		<ul>
-            <li>FluidSIM (Eletropneumática)</li>
-            <li>CADe SIMU (Comandos Elétricos)</li>
-            <li>SolidWorks (Design e Modelagem 3D)</li>
-            <li>AutoCAD (Desenho Técnico 2D)</li>
+            <!-- <li>FluidSIM (Eletropneumática)</li>
+            <li>CADe SIMU (Comandos Elétricos)</li> -->
+            <li><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#fefbfb" viewBox="0 0 256 256"><path d="M223.68,66.15,135.68,18h0a15.88,15.88,0,0,0-15.36,0l-88,48.17a16,16,0,0,0-8.32,14v95.64a16,16,0,0,0,8.32,14l88,48.17a15.88,15.88,0,0,0,15.36,0l88-48.17a16,16,0,0,0,8.32-14V80.18A16,16,0,0,0,223.68,66.15ZM128,32h0l80.34,44L128,120,47.66,76ZM40,90l80,43.78v85.79L40,175.82Zm96,129.57V133.82L216,90v85.78Z"></path></svg>Inventor (Design e Modelagem 3D)</li>
+            <li><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#fefbfb" viewBox="0 0 256 256"><path d="M208,32H48A16,16,0,0,0,32,48V208a16,16,0,0,0,16,16H208a16,16,0,0,0,16-16V48A16,16,0,0,0,208,32Zm0,176H48V48H208V208Z"></path></svg>AutoCAD (Desenho Técnico 2D)</li>
         </ul>
 	</div>
-	<div class="6u$ 12u$(small)">
+	<!-- <div class="6u$ 12u$(small)">
 		<h3>Hardware & Eletrônica</h3>
         <ul>
             <li>Prototipagem com Arduino e ESP32</li>
@@ -37,7 +37,7 @@ nav-menu: true
             <li>Controle de Atuadores (Servos, Motores)</li>
             <li>Lógica de CLP e Diagramas Elétricos</li>
         </ul>
-	</div>
+	</div> -->
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		<h3>Linguagens de programação</h3>
@@ -57,7 +57,7 @@ nav-menu: true
             <li>Git & GitHub (Versionamento)</li>
         </ul>
 	</div>
-	<div class="4u$ 12u$(medium)">
+	<!-- <div class="4u$ 12u$(medium)">
 		<h3>Hábilidades Interpessoais (Soft-skills)</h3>
 		<ul>
 			<li>Resoluções de problemas complexos</li>
@@ -65,5 +65,5 @@ nav-menu: true
             <li>Comunicação técnica</li>
             <li>Aprendizado contínuo</li>
 		</ul>
-	</div>
+	</div> -->
 </div>
