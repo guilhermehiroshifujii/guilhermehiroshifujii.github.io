@@ -29,6 +29,7 @@ nav-menu: true
             <li>Criação de modelos 3D dinâmicos/automatizados (Autodesk Inventor) </li>
             <li>Desenvolvimento de ferramentas de automação em Python</li>
             <li>Documentação Inteligente e Rastreável (BOM)</li>
+            <li>Revisão e Padronização de Desenhos</li>
         </ul>
 	</div>
 	<!-- <div class="6u$ 12u$(small)">
@@ -59,6 +60,14 @@ nav-menu: true
             <li>Git & GitHub (Versionamento)</li>
         </ul>
 	</div>
+	<div class="4u 12u$(medium)">
+		<h3>Automação de Projeto</h3>
+        <ul>
+            <li>Desenvolvimento de Modelos Dinâmicos</li>
+            <li>Criação de Ferramentas CAD</li>
+            <li>Análise de Lógica de Controle</li>
+        </ul>
+	</div>
 	<!-- <div class="4u$ 12u$(medium)">
 		<h3>Hábilidades Interpessoais (Soft-skills)</h3>
 		<ul>
@@ -68,4 +77,13 @@ nav-menu: true
             <li>Aprendizado contínuo</li>
 		</ul>
 	</div> -->
+	<div class="4u$ 12u$(medium)">
+		<h3>Sistemas de fluídos e Aplicações Industriais</h3>
+		<ul>
+			<li>Desenho de componentes e sistemas de Ventilação e Exaustão</li>
+            <li>Design e modelagem de sistemas pneumáticos</li>
+            <li>Comunicação técnica</li>
+            <li>Aprendizado contínuo</li>
+		</ul>
+	</div>
 </div>
