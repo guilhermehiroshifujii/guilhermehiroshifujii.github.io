@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Olá, me chamo Guilherme Hiroshi'
+landing-title: 'Olá, me chamo Hiroshi'
 description: null
 image: null
 author: null
