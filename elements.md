@@ -25,11 +25,11 @@ nav-menu: true
 		<ul class="habilidades">
             <!-- <li>FluidSIM (Eletropneumática)</li>
             <li>CADe SIMU (Comandos Elétricos)</li> -->
-            <li class="habilidades">Modelagem 3D</li>
-            <li class="habilidades">Criação de modelos 3D dinâmicos/automatizados (Autodesk Inventor) </li>
-            <li class="habilidades">Desenvolvimento de ferramentas de automação em Python</li>
-            <li class="habilidades">Documentação Inteligente e Rastreável (BOM)</li>
-            <li class="habilidades">Revisão e Padronização de Desenhos</li>
+            <li class="habilidade_box">Modelagem 3D</li>
+            <li class="habilidade_box">Criação de modelos 3D dinâmicos/automatizados (Autodesk Inventor) </li>
+            <li class="habilidade_box">Desenvolvimento de ferramentas de automação em Python</li>
+            <li class="habilidade_box">Documentação Inteligente e Rastreável (BOM)</li>
+            <li class="habilidade_box">Revisão e Padronização de Desenhos</li>
         </ul>
 	</div>
     	<div class="4u 12u$(medium)">
