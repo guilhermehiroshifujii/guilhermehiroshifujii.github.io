@@ -23,7 +23,7 @@ nav-menu: true
     <h2>Mecânica e Design</h2>
     <div class="skills-gallery">
         <div class="skill-item mechanic">
-            <div class="skill-image" style="background-image: url()"><i class="ph ph-cube-transparent"></i></div>
+            <div class="skill-image" style="background-image: url('./assets/images/inventor_logo.png'); background-size: cover; background-position: center;"></div>
             <div class="skill-content">
                 <h3 class="skill-title">CAD (Inventor)</h3>
                 <p class="skill-description">Experiência em modelagem 3D e prototipagem de componentes mecânicos, aplicados em projetos de engenharia.</p>
@@ -37,7 +37,7 @@ nav-menu: true
             </div>
         </div>
         <div class="skill-item mechanic">
-            <div class="skill-image" style="background-image: url;"></div>
+            <div class="skill-image" style="background-image: url('./assets/images/Autocad_logo.jpg'); background-size: cover; background-position: center;"></div>
             <div class="skill-content">
                 <h3 class="skill-title">AutoCAD</h3>
                 <p class="skill-description">Criação de desenhos 2D e planos detalhados para fabricação.</p>
